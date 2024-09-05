@@ -7,10 +7,8 @@
     <fullyQualifiedTypeName name="boardgame.Piece"/>
     <fullyQualifiedTypeName name="boardgame.BoardException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
-    <fullyQualifiedTypeName name="boardgame.Position"/>
     <fullyQualifiedTypeName name="chess.Color"/>
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
-    <fullyQualifiedTypeName name="application.UI"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.List"/>
@@ -18,6 +16,10 @@
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="chess.ChessPosition"/>
     <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
-    <fullyQualifiedTypeName name="chess.ChessPiece"/>
     <fullyQualifiedTypeName name="chess.ChessException"/>
+    <fullyQualifiedTypeName name="boardgame.Position"/>
+    <fullyQualifiedTypeName name="chess.ChessPiece"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicDesktopIconUI"/>
+    <fullyQualifiedTypeName name="application.UI"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
 </qualifiedTypeNameHistroy>

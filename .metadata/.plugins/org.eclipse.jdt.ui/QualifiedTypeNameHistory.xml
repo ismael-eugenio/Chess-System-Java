@@ -8,7 +8,6 @@
     <fullyQualifiedTypeName name="boardgame.BoardException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="chess.Color"/>
-    <fullyQualifiedTypeName name="chess.ChessMatch"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.List"/>
@@ -20,9 +19,11 @@
     <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicDesktopIconUI"/>
     <fullyQualifiedTypeName name="application.UI"/>
     <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
-    <fullyQualifiedTypeName name="chess.ChessPiece"/>
-    <fullyQualifiedTypeName name="boardgame.Position"/>
     <fullyQualifiedTypeName name="chess.pieces.Pawn"/>
     <fullyQualifiedTypeName name="chess.pieces.Bishop"/>
     <fullyQualifiedTypeName name="chess.pieces.Knight"/>
+    <fullyQualifiedTypeName name="chess.pieces.Queen"/>
+    <fullyQualifiedTypeName name="chess.ChessMatch"/>
+    <fullyQualifiedTypeName name="boardgame.Position"/>
+    <fullyQualifiedTypeName name="chess.ChessPiece"/>
 </qualifiedTypeNameHistroy>

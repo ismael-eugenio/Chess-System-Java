@@ -13,7 +13,6 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.stream.Collector"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="chess.ChessPosition"/>
     <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
     <fullyQualifiedTypeName name="chess.ChessException"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicDesktopIconUI"/>
@@ -23,7 +22,8 @@
     <fullyQualifiedTypeName name="chess.pieces.Bishop"/>
     <fullyQualifiedTypeName name="chess.pieces.Knight"/>
     <fullyQualifiedTypeName name="chess.pieces.Queen"/>
-    <fullyQualifiedTypeName name="chess.ChessMatch"/>
     <fullyQualifiedTypeName name="boardgame.Position"/>
+    <fullyQualifiedTypeName name="chess.ChessPosition"/>
     <fullyQualifiedTypeName name="chess.ChessPiece"/>
+    <fullyQualifiedTypeName name="chess.ChessMatch"/>
 </qualifiedTypeNameHistroy>

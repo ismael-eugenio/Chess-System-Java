@@ -13,7 +13,6 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.stream.Collector"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
     <fullyQualifiedTypeName name="chess.ChessException"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicDesktopIconUI"/>
     <fullyQualifiedTypeName name="application.UI"/>
@@ -25,5 +24,7 @@
     <fullyQualifiedTypeName name="boardgame.Position"/>
     <fullyQualifiedTypeName name="chess.ChessPosition"/>
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="java.security.InvalidParameterException"/>
     <fullyQualifiedTypeName name="chess.ChessPiece"/>
 </qualifiedTypeNameHistroy>

@@ -24,6 +24,6 @@
     <fullyQualifiedTypeName name="chess.pieces.Queen"/>
     <fullyQualifiedTypeName name="boardgame.Position"/>
     <fullyQualifiedTypeName name="chess.ChessPosition"/>
-    <fullyQualifiedTypeName name="chess.ChessPiece"/>
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
+    <fullyQualifiedTypeName name="chess.ChessPiece"/>
 </qualifiedTypeNameHistroy>
